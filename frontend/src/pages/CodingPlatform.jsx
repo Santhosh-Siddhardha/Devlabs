@@ -116,6 +116,12 @@ const tools = [
     link: "https://www.kaggle.com/",
     image: "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3335785%2F5ba220bb74222dc4831ec760af1e25d1%2F0_EcNt1Y_p5njLMX3F.png?generation=1588220591109846&alt=media"
   },
+  {
+    name: "AlgoExpert",
+    description: "AlgoExpert is the leading platform to prepare for coding interviews.",
+    link: "https://www.algoexpert.io/product",
+    image: "https://assets.algoexpert.io/static/images/ae-social-logo-twitter.png"
+  },
 ];
 
 
